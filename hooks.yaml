@@ -1,7 +1,0 @@
--   id: ruby-lint
-    name: ruby-lint
-    entry: ruby-lint
-    language: ruby
-    files: \.rb$
-    args: []
-

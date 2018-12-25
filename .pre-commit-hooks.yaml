@@ -2,6 +2,6 @@
     name: ruby-lint
     entry: ruby-lint
     language: ruby
-    files: \.rb$
+    'types': [ruby]
     args: []
-
+    additional_dependencies: []
