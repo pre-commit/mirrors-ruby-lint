@@ -1,3 +1,9 @@
+# DEPRECATED
+
+the upstream has been archived
+
+___
+
 ruby-lint mirror
 ================
 
